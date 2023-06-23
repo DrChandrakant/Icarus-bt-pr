@@ -29,5 +29,4 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Topic :: Utilities'
     ],
-    python_requires='>=3.10'
 )
